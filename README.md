@@ -1,3 +1,5 @@
+![](https://i.ibb.co/djD66vx/planetshooterlogo.jpg)
+
 # Planet Shooter
 
 A first-person shooter game I made using Unity's FPS game template.
